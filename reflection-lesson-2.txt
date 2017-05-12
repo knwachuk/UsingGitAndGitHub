@@ -20,10 +20,20 @@ change that was done.
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+Branches can organize your history into sub trees which means individuals can
+work without fear of anyone destroying their progress.
+
 How do the diagrams help you visualize the branch structure?
+
+It was already relatively clear from the initial explanation. Although it does
+solidify the concept in the mind.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+The result of merging two branches is a combination of code (actively added or
+left alone) code between the two branches. It is represented in the graph for
+easier understanding.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
