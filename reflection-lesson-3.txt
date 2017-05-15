@@ -43,4 +43,13 @@ track errors.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+Admittedly, the round-about method of using pull request requires it's own
+dissertation just to understand, the methodology is so that changes can be
+reviewed by other members of the project BEFORE they are incorporated into the
+master (live) branch of the project. The idea is to add multiple
+points-of-failure in order to increase the robustness of the code base. Even
+though it WILL still take me a while to wrap my head around the pull request
+workflow, I can already appreciate the purpose of it all.
+
+Now as to using a branch proper: whenever a change is more invovled, it will be
+prudent to use another branch for the reasons highlighted above.
