@@ -32,7 +32,13 @@ repository resides in your local repository.
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+I wouldn't: since learning about version control (GitHub) last year, I have
+mandated that every member of the lab learn the software. As to the seond
+question, it would be easier to send files without the Git based overhead, but
+it would be MUCH harder to track changes (version/history control) and even
+more difficult to know when something has gone wrong in the code base. Git(Hub)
+helps to keep those information obvious, preventing, otherwise, difficult to
+track errors.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
